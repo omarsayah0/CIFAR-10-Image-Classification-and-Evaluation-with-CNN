@@ -1,3 +1,5 @@
+#This is how to run the program : python -m streamlit run main.py
+
 import numpy as np
 import streamlit as st
 from utils import (
