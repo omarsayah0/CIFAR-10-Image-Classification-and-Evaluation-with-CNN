@@ -101,11 +101,11 @@ The CNN gradually learns visual patterns — starting from simple edges, then sh
 - These transformations create new variations of the images, allowing the model to learn more robust features.
 
 - **Training Configuration: **
--         **Optimizer:** Adam  
-          **Loss Function:** Sparse Categorical Crossentropy  
-          **Metrics:** Accuracy  
-          **Batch Size:** 64  
-          **Epochs:** 50  
+-         Optimizer: Adam  
+          Loss Function: Sparse Categorical Crossentropy  
+          Metrics: Accuracy  
+          Batch Size: 64  
+          Epochs: 50  
 
 - **Regularization Techniques** → The model uses:
 -         **BatchNormalization** to stabilize activations and speed up convergence  
