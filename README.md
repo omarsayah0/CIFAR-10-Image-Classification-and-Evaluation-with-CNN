@@ -133,7 +133,7 @@ python -m streamlit run main.py
 3- Application Preview :
 
 <p align="center">
-<img width="3801" height="2098" alt="Capture_2025_11_23_22_05_48_376" src="https://github.com/user-attachments/assets/56962b90-a2f2-4f03-b628-d64d64329cab" />
+<img width="3801" height="2098" alt="Capture_2025_11_23_22_05_48_376" src="https://github.com/user-attachments/assets/70adb1cb-49d1-4689-8227-37b27bc84668" />
 </p>
 
 The interface shows a clean and modern Streamlit dashboard where the user can switch between two main sections:  
@@ -148,7 +148,7 @@ The layout uses a dark theme with centered content, making the evaluation result
 
 
 <p align="center">
-<img width="3801" height="2098" alt="Capture_2025_11_23_22_08_11_498" src="https://github.com/user-attachments/assets/0f4f44e6-5bcf-435c-8760-79d909c9687b" />
+<img width="3801" height="2098" alt="Capture_2025_11_23_22_08_11_498" src="https://github.com/user-attachments/assets/cabc2352-6134-445a-a86b-f6bf2f7ec31b" />
 </p>
 
 
@@ -162,7 +162,7 @@ This visual preview helps you quickly see how well the model performs on real CI
 
 
 <p align="center">
-<img width="3801" height="2098" alt="Capture_2025_11_23_22_08_24_422" src="https://github.com/user-attachments/assets/67cc3c95-7a60-45c2-8e7a-e0bc4cea345d" />
+<img width="3801" height="2098" alt="Capture_2025_11_23_22_08_24_422" src="https://github.com/user-attachments/assets/aa2d22d7-6dca-4ab2-8769-20bdbd80f77d" />
 </p>
 
 
@@ -177,7 +177,7 @@ Darker colors indicate stronger performance, making it easy to see which classes
 
 
 <p align="center">
-<img width="3801" height="2098" alt="Capture_2025_11_23_22_08_40_790" src="https://github.com/user-attachments/assets/42bb7efb-9ff4-467b-ad87-c4ef4b6c0ede" />
+<img width="3801" height="2098" alt="Capture_2025_11_23_22_08_40_790" src="https://github.com/user-attachments/assets/f62a32b8-f50b-4374-9032-bad8fea08f08" />
 </p>
 
 
@@ -192,7 +192,7 @@ Diagonal values represent correct predictions, while off-diagonal values reveal 
 
 
 <p align="center">
-<img width="3801" height="2098" alt="Capture_2025_11_23_22_08_48_15" src="https://github.com/user-attachments/assets/abacf1cb-8c2f-4700-b507-83b212be64f1" />
+<img width="3801" height="2098" alt="Capture_2025_11_23_22_08_48_15" src="https://github.com/user-attachments/assets/d227b0ff-24ea-404f-b253-c8fee03c7092" />
 </p>
 
 
@@ -208,7 +208,7 @@ The AUC (Area Under the Curve) values displayed in the legend provide a numerica
 
 
 <p align="center">
-<img width="3801" height="2098" alt="Capture_2025_11_23_22_08_52_385" src="https://github.com/user-attachments/assets/8fe452ad-d51b-4485-aa4a-4b8cbbc66880" />
+<img width="3801" height="2098" alt="Capture_2025_11_23_22_08_52_385" src="https://github.com/user-attachments/assets/3a28baad-c8f6-445f-909f-ae48061e8ef7" />
 </p>
 
 
@@ -225,7 +225,7 @@ After uploading, the app processes the image, resizes it to 32×32, and displays
 
 
 <p align="center">
-<img width="3801" height="2098" alt="Capture_2025_11_23_22_09_00_965" src="https://github.com/user-attachments/assets/b6fe353d-e64b-4397-8ffe-2c92001fbf16" />
+<img width="3801" height="2098" alt="Capture_2025_11_23_22_09_00_965" src="https://github.com/user-attachments/assets/392e2107-c6a5-4338-9742-942ffe124dc2" />
 </p>
 
 
@@ -242,7 +242,7 @@ This shows that the model can handle real world images not just the low resoluti
 
 
 <p align="center">
-<img width="3801" height="2098" alt="Capture_2025_11_23_22_09_14_847" src="https://github.com/user-attachments/assets/1d161054-3028-4e27-86a6-5af290c29a79" />
+<img width="3801" height="2098" alt="Capture_2025_11_23_22_09_14_847" src="https://github.com/user-attachments/assets/cceb96f7-2ef9-4103-bb5e-1a9a1599b72c" />
 </p>
 
 
@@ -259,7 +259,7 @@ This example further shows that the classifier works well on real-life images, e
 
 
 <p align="center">
-<img width="3801" height="2098" alt="Capture_2025_11_23_22_09_22_847" src="https://github.com/user-attachments/assets/fe132050-3ff2-48aa-b91c-e9f1c4408a77" />
+<img width="3801" height="2098" alt="Capture_2025_11_23_22_09_22_847" src="https://github.com/user-attachments/assets/fa0bd07d-b51d-4bc7-ad97-b4058aa85290" />
 </p>
 
 
