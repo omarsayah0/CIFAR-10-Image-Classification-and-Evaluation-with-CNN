@@ -88,7 +88,7 @@ The goal of this project is to provide a complete pipeline from model training â
 | **Dense (10, Softmax)** | Produces the final probability for each of the 10 CIFAR-10 classes. |
 
 **In short:**  
-The CNN gradually learns visual patterns â€” starting from simple edges, then shapes and textures, and finally full objects like animals, vehicles, and more.
+The CNN gradually learns visual patterns starting from simple edges, then shapes and textures, and finally full objects like animals, vehicles, and more.
 
 
 
