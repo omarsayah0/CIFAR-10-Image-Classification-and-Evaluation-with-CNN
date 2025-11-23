@@ -231,7 +231,7 @@ After uploading, the app processes the image, resizes it to 32×32, and displays
 
 ## Example Prediction
 
-In this example, I tested the model using a photo of **my own cat Mezo ** 😄.
+In this example, I tested the model using a photo of my own cat Mezo 😄.
 The image is resized and processed by the model, and it correctly predicts the class as **Cat**.  
 This shows that the model can handle real world images not just the low resolution CIFAR-10 samples.
 
@@ -248,7 +248,7 @@ This shows that the model can handle real world images not just the low resoluti
 
 ## Another Example Prediction
 
-Here, I tested the model using a photo of **my pet bird Kitaawa ** 😄. 
+Here, I tested the model using a photo of my pet bird Kitaawa 😄. 
 After processing the image, the model correctly identifies it as a **Bird**.  
 This example further shows that the classifier works well on real-life images, even when they come from outside the CIFAR-10 dataset.
 
